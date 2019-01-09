@@ -1,0 +1,50 @@
+body{
+	background-color: #1a1a1a;
+}
+
+h1 {
+	color: white;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h4 {
+	color: white;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+p {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+button {
+	background-color: #222222;
+	border: none;
+	border-width: 0px;
+	color: white;
+	padding: 10px;
+	outline: none;
+}
+
+button:hover{
+	background-color: #272727;
+	cursor: pointer;
+
+}
+
+img {
+	width: 300px;
+}
+
+#selected {
+	background-color: #4286f4;
+}
+
+#selected:hover {
+	cursor: inherit;
+}
